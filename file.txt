@@ -1,0 +1,451 @@
+api=c3e984daf0afd7f54a414525d673f094
+
+https://api.themoviedb.org/3/movie/550?api_key=c3e984daf0afd7f54a414525d673f094
+
+
+
+
+
+
+
+
+
+
+[
+    {
+        "adult": false,
+        "backdrop_path": "/mRGmNnh6pBAGGp6fMBMwI8iTBUO.jpg",
+        "id": 968051,
+        "title": "The Nun II",
+        "original_language": "en",
+        "original_title": "The Nun II",
+        "overview": "In 1956 France, a priest is violently murdered, and Sister Irene begins to investigate. She once again comes face-to-face with a powerful evil.",
+        "poster_path": "/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            27,
+            9648,
+            53
+        ],
+        "popularity": 3660.338,
+        "release_date": "2023-09-06",
+        "video": false,
+        "vote_average": 6.962,
+        "vote_count": 572
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg",
+        "id": 980489,
+        "title": "Gran Turismo",
+        "original_language": "en",
+        "original_title": "Gran Turismo",
+        "overview": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
+        "poster_path": "/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            12,
+            28,
+            18
+        ],
+        "popularity": 2625.075,
+        "release_date": "2023-08-09",
+        "video": false,
+        "vote_average": 8.054,
+        "vote_count": 834
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lNxR7SmtFxFUfA7n9qtzuaIYvoM.jpg",
+        "id": 926393,
+        "title": "The Equalizer 3",
+        "original_language": "en",
+        "original_title": "The Equalizer 3",
+        "overview": "Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.",
+        "poster_path": "/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "popularity": 979.222,
+        "release_date": "2023-08-30",
+        "video": false,
+        "vote_average": 7.184,
+        "vote_count": 411
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mvoW41kdSxiobGZ9ONL1Tqrpt3h.jpg",
+        "id": 114461,
+        "name": "Ahsoka",
+        "original_language": "en",
+        "original_name": "Ahsoka",
+        "overview": "Former Jedi Knight Ahsoka Tano investigates an emerging threat to a vulnerable galaxy.",
+        "poster_path": "/laCJxobHoPVaLQTKxc14Y2zV64J.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+            10765,
+            10759
+        ],
+        "popularity": 1188.518,
+        "first_air_date": "2023-08-22",
+        "vote_average": 7.947,
+        "vote_count": 356,
+        "origin_country": [
+            "US"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1syW9SNna38rSl9fnXwc9fP7POW.jpg",
+        "id": 565770,
+        "title": "Blue Beetle",
+        "original_language": "en",
+        "original_title": "Blue Beetle",
+        "overview": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+        "poster_path": "/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "popularity": 1652.788,
+        "release_date": "2023-08-16",
+        "video": false,
+        "vote_average": 7.083,
+        "vote_count": 1152
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mzlZAMjE2yk2sW3f9HTeBM3B3jw.jpg",
+        "id": 616747,
+        "title": "Haunted Mansion",
+        "original_language": "en",
+        "original_title": "Haunted Mansion",
+        "overview": "A woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.",
+        "poster_path": "/8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            14,
+            35
+        ],
+        "popularity": 268.412,
+        "release_date": "2023-07-26",
+        "video": false,
+        "vote_average": 6.839,
+        "vote_count": 270
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+        "id": 346698,
+        "title": "Barbie",
+        "original_language": "en",
+        "original_title": "Barbie",
+        "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+        "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            35,
+            12,
+            14
+        ],
+        "popularity": 777.574,
+        "release_date": "2023-07-19",
+        "video": false,
+        "vote_average": 7.267,
+        "vote_count": 5227
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ScaVfT5IkwVC3Edhmxqyl0GbK0.jpg",
+        "id": 205715,
+        "name": "Gen V",
+        "original_language": "en",
+        "original_name": "Gen V",
+        "overview": "At America's only college for superheroes, gifted students put their moral boundaries to the test, competing for the university's top ranking, and a chance to join The Seven, Vought International's elite superhero team. When the school's dark secrets come to light, they must decide what kind of heroes they want to become.",
+        "poster_path": "/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+            10765,
+            10759,
+            18
+        ],
+        "popularity": 998.144,
+        "first_air_date": "2023-09-28",
+        "vote_average": 8.018,
+        "vote_count": 85,
+        "origin_country": [
+            "US"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4DxHcIQfw3ungfQVqupJ8K62M3d.jpg",
+        "id": 72710,
+        "name": "The Continental: From the World of John Wick",
+        "original_language": "en",
+        "original_name": "The Continental: From the World of John Wick",
+        "overview": "Winston Scott is roped into a world of assassins and must make things right after his brother's attack on the Continental hotel.",
+        "poster_path": "/v1YEOdGptCyNxnc4mJSYNd4cE8E.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+            80,
+            10759
+        ],
+        "popularity": 1073.215,
+        "first_air_date": "2023-09-22",
+        "vote_average": 8.1,
+        "vote_count": 117,
+        "origin_country": [
+            "US"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
+        "id": 575264,
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "original_language": "en",
+        "original_title": "Mission: Impossible - Dead Reckoning Part One",
+        "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
+        "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "popularity": 385.841,
+        "release_date": "2023-07-08",
+        "video": false,
+        "vote_average": 7.716,
+        "vote_count": 1217
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iQcCAm8hKWZyUntqrvzyEGtXyJl.jpg",
+        "id": 670292,
+        "title": "The Creator",
+        "original_language": "en",
+        "original_title": "The Creator",
+        "overview": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.",
+        "poster_path": "/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            878,
+            28,
+            53
+        ],
+        "popularity": 392.423,
+        "release_date": "2023-09-27",
+        "video": false,
+        "vote_average": 7.189,
+        "vote_count": 235
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pA3vdhadJPxF5GA1uo8OPTiNQDT.jpg",
+        "id": 678512,
+        "title": "Sound of Freedom",
+        "original_language": "en",
+        "original_title": "Sound of Freedom",
+        "overview": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+        "poster_path": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "popularity": 3627.783,
+        "release_date": "2023-07-03",
+        "video": false,
+        "vote_average": 8.057,
+        "vote_count": 649
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dZbLqRjjiiNCpTYzhzL2NMvz4J0.jpg",
+        "id": 951491,
+        "title": "Saw X",
+        "original_language": "en",
+        "original_title": "Saw X",
+        "overview": "Between the events of 'Saw' and 'Saw II', a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer, only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, the infamous serial killer returns to his work, turning the tables on the con artists in his signature visceral way through devious, deranged, and ingenious traps.",
+        "poster_path": "/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "popularity": 756.326,
+        "release_date": "2023-09-26",
+        "video": false,
+        "vote_average": 7.274,
+        "vote_count": 93
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xvzxqKWltnj6qSiWBXRq6ZCdcrw.jpg",
+        "id": 1151534,
+        "title": "Nowhere",
+        "original_language": "es",
+        "original_title": "Nowhere",
+        "overview": "A young pregnant woman named Mia escapes from a country at war by hiding in a maritime container aboard a cargo ship. After a violent storm, Mia gives birth to the child while lost at sea, where she must fight to survive.",
+        "poster_path": "/rpzFxv78UvYG5yQba2soO5mMl4T.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            53,
+            18
+        ],
+        "popularity": 547.305,
+        "release_date": "2023-09-29",
+        "video": false,
+        "vote_average": 7.87,
+        "vote_count": 355
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iIvQnZyzgx9TkbrOgcXx0p7aLiq.jpg",
+        "id": 1008042,
+        "title": "Talk to Me",
+        "original_language": "en",
+        "original_title": "Talk to Me",
+        "overview": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+        "poster_path": "/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "popularity": 830.081,
+        "release_date": "2023-07-26",
+        "video": false,
+        "vote_average": 7.222,
+        "vote_count": 1045
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z4fm2NPAzrJOjSQ3sMRiuO7AoFC.jpg",
+        "id": 84958,
+        "name": "Loki",
+        "original_language": "en",
+        "original_name": "Loki",
+        "overview": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
+        "poster_path": "/voHUmluYmKyleFkTu3lOXQG702u.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+            18,
+            10765
+        ],
+        "popularity": 569.047,
+        "first_air_date": "2021-06-09",
+        "vote_average": 8.2,
+        "vote_count": 10148,
+        "origin_country": [
+            "US"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a6ptrTUH1c5OdWanjyYtAkOuYD0.jpg",
+        "id": 37854,
+        "name": "One Piece",
+        "original_language": "ja",
+        "original_name": "ワンピース",
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "poster_path": "/fcXdJlbSdUEeMSJFsXKsznGwwok.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+            10759,
+            35,
+            16
+        ],
+        "popularity": 99.768,
+        "first_air_date": "1999-10-20",
+        "vote_average": 8.723,
+        "vote_count": 4057,
+        "origin_country": [
+            "JP"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dS4JR8gmj8UnamjuLEyAkEFoppy.jpg",
+        "id": 923939,
+        "title": "The Wonderful Story of Henry Sugar",
+        "original_language": "en",
+        "original_title": "The Wonderful Story of Henry Sugar",
+        "overview": "A rich man learns about a guru who can see without using his eyes. He sets out to master the skill in order to cheat at gambling.",
+        "poster_path": "/A4LTXT8MMZIr4aIwhE4qbGFivBo.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            14,
+            35,
+            12
+        ],
+        "popularity": 196.512,
+        "release_date": "2023-09-20",
+        "video": false,
+        "vote_average": 7.402,
+        "vote_count": 255
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5SEEBS5qXgL5rgivTiAROy1Qt2q.jpg",
+        "id": 81356,
+        "name": "Sex Education",
+        "original_language": "en",
+        "original_name": "Sex Education",
+        "overview": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+        "poster_path": "/zn6VNUOHGWKvSGRL6KiMtAe9ELy.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "popularity": 821.406,
+        "first_air_date": "2019-01-11",
+        "vote_average": 8.302,
+        "vote_count": 6661,
+        "origin_country": [
+            "GB"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zYlgqIpqJ1VAbvFhRhktAzIybVs.jpg",
+        "id": 820609,
+        "title": "No One Will Save You",
+        "original_language": "en",
+        "original_title": "No One Will Save You",
+        "overview": "An exiled anxiety-ridden homebody must battle an alien who's found its way into her home.",
+        "poster_path": "/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            27,
+            878,
+            53
+        ],
+        "popularity": 676.54,
+        "release_date": "2023-09-22",
+        "video": false,
+        "vote_average": 6.964,
+        "vote_count": 444
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+https://netflix-clone-me21.firebase.app/
